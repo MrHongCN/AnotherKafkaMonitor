@@ -54,8 +54,8 @@ Dashboard lists some general info:
 ![DashBoard](/WebContent/media/readmepic/akm-dashboard.png)
 
 ### 2. Topic List
-* List Topics you have created
-* List Partition Indexes of each topic
+* List Topics you have created;
+* List Partition Indexes of each topic.
 ![Topic List](/WebContent/media/readmepic/akm-topiclist.png)
 
 ### 3. Cluster Info
