@@ -40,7 +40,7 @@ Several ways can be taken if you want to try
 3. Move folder `AnotherKakfaMonitor` to `<TOMCAT_HOME>\webapp`;
 4. Start tomcat, type `http://localhost:<TOMCAT_HTTP_PORT>/AnotherKafkaMonitor` into browser, please enjoy.
 
-* Maybe you want to make some change for your taste
+* Maybe you want to make some change for your taste.
 
 > 1. Download the `zip` file;
 2. Import into your IDE, like `Eclipse` or others as you like.
